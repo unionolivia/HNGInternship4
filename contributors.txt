@@ -16,23 +16,68 @@
 16. Edidiong Asikpo @Didicodes
 17. Victor Alagwu @Victor
 18. Tejumola David Timi @timi
-19. Osumgba Chiamaka @Pearl
-20. Miracle Joseph	@tiarayuppy
-21. Godswill Effiong Okokon @godswillokokon
-22. Okon Emmanuel @okon
-23. Ogbor Margaret Ene @kiwi
-24. Olayinka Raheem @Olayinka Raheem
-25. Ekpono Joseph Ambrose @ekpono
-26. Eleng, Efa-Iwa @sage001
-27. Peter Amugen @Payne
-29. Chiedu Emmanuel @nedu
+19. Ayeko Ayobamidele@ayobamidele
+20. Osumgba Chiamaka @Pearl
+21. Miracle Joseph	@tiarayuppy
+22. Godswill Effiong Okokon @godswillokokon
+23. Okon Emmanuel @okon
+24. Ogbor Margaret Ene @kiwi
+25. Olayinka Raheem @Olayinka Raheem
+26. Ekpono Joseph Ambrose @ekpono
+27. Eleng, Efa-Iwa @sage001
 28. Peter Amugen @Payne
 29. Bakwenye Chiedu Emmanuel @nedu
 30. Ojoawo Solomon Oluwakayode @kaykluz
 31. Adesile Emmanuel Mayowa @emmaadesile
-<<<<<<< HEAD
 32. Faith Odonghanro @toriboi
-=======
-32. Ajibade, Tosho @toshoajibade
->>>>>>> ff005dc2468d0f6b38c96226d4d74b59f9d8fc4e
-33. Jolaoso Yusuf @MaestroJolly
+33. Ajibade, Tosho @toshoajibade
+34. Jolaoso Yusuf @MaestroJolly
+35. Aihanunwa Festus @Feshibaba.
+36. Cyril Ofem Uket @syziddy65
+37. Nwanozie Promise @iotstudent
+38. Aihanunwa Festus @Feshibaba.
+39. Cyril Ofem Uket @syziddy65
+40. Ekwunife Winifred @winnie_fred
+41. Ameh Samuel @pr0p3rsAm
+42. Akanbi Tunde Lawal @Techieman
+43. Oseni Luthfulahi Olaitan @luteeph01
+44. Adeboga Abigail Oluwafadeji @Abigail
+45. Uhiara charles Chiemezielam @charlyge
+46. Balogun Olusegun @japhar1
+47. Nedy Udombat @nedy
+48. Valentino Ugbala @teenoh
+49. Chiedu Emmanuel @nedu
+50. Peter Amugen @Payne
+51. Bakwenye Chiedu Emmanuel @nedu
+52. Ojoawo Solomon Oluwakayode @kaykluz
+53. Adesile Emmanuel Mayowa @emmaadesile
+54. Faith Odonghanro @toriboi
+55. Ajibade, Tosho @toshoajibade
+56. Jolaoso Yusuf @MaestroJolly
+57. Aihanunwa Festus @Feshibaba.
+58. Cyril Ofem Uket @syziddy65
+59. Nwanozie Promise @iotstudent
+60. Aihanunwa Festus @Feshibaba.
+61. Cyril Ofem Uket @syziddy65
+62. Ekwunife Winifred @winnie_fred
+63. Ameh Samuel @pr0p3rsAm
+64. Akanbi Tunde Lawal @Techieman
+65. Oseni Luthfulahi Olaitan @luteeph01
+66. Adeboga Abigail Oluwafadeji @Abigail
+67. Balogun Olusegun @japhar1
+68. Nedy Udombat @nedy
+69. Valentino Ugbala @teenoh
+70. Dike Precious @supardyke
+71. Afolayan David @thekinglaolu
+72. Adeegbe Oluyemi @adeegbe
+73. Ogundiji Bolade Adio 
+74. John Olubori David @Olubori
+75. Ayo-Salami Ayobami @bamii
+76. Justice Otuya Ugochukwu @justiceotuya
+77. Achem Samuel @Sammy
+78. Oluwatobi Adenekan @uncle-tee
+79. Olamide Faniyan @pajimo
+80. Ashibekong John Ishado @johnishado
+81. matthew bernard @matthew
+82. Ojeaga union @union
+83. Uwem Uke @uwemuke
